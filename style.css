@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #ddd;
+    display: grid;
+    place-items: center;
+}
